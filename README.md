@@ -54,9 +54,23 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 
 - Deep Blue CLI
 <p align="center">
-<img src="" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://i.imgur.com/pQAawZp.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b></b>
+<b>Detecting User Account Changes. Adding users for persistence. Event ID 4732 shows a user added to the local administrators group.</b>
+<br/>
+
+<p align="center">
+<img src="https://i.imgur.com/qYZww1j.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Password Spraying Attacks. Using a list of users with a single password to evade account lockout. Effective because it avoids triggering lockout policies.</b>
+<br/>
+
+<p align="center">
+<img src="https://i.imgur.com/PgHdUYQ.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://i.imgur.com/AFAQ3cS.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Powershell Encoding Detection. Attackers use encoding to bypass detection.</b>
 <br/>
 
 
