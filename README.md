@@ -16,12 +16,12 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 
 ### Tools Used
 
-- Volatility
+- Volatility 3
 - Deep Blue CLI
 
 ## Perform Analysis
 
-- Volatility
+- Volatility 3
 <p align="center">
 <img src="https://i.imgur.com/tzmfVeW.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
@@ -31,11 +31,11 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 <br/>
 
 <p align="center">
-<img src="" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://i.imgur.com/XaSPGAJ.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<img src="" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://i.imgur.com/Ux0TegW.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b></b>
+<b>Detects signs of process injection and malware behavior in memory. Identified suspicious patterns in system processes (e.g., TrustMe.exe)</b>
 <br/>
 
 <p align="center">
