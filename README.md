@@ -23,6 +23,22 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 
 - Volatility
 <p align="center">
+<img src="https://i.imgur.com/tzmfVeW.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="https://i.imgur.com/ors8StP.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Generate a process list to identify active processes. Suspicious processes like "TrustMe.exe" found.</b>
+<br/>
+
+<p align="center">
+<img src="" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<img src="" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b></b>
+<br/>
+
+<p align="center">
 <img src="" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b></b>
