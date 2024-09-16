@@ -79,5 +79,5 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 - Achieved proficiency in using both Volatility and Deep Blue CLI for a comprehensive approach to Windows forensic analysis. This includes analyzing memory dumps and event logs to detect and investigate suspicious activities, identify malware behaviors, and effectively respond to security incidents.
 
 ## Acknowledgements
-- [Volatility]()
-- [Deep Blue CLI]()
+- [Volatility](https://volatilityfoundation.org/)
+- [Deep Blue CLI](https://www.sans.org/tools/deepbluecli/)
