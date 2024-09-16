@@ -1,6 +1,6 @@
 ## Objective
 
-Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Windows Event Log Analysis.
+Effectively use Volatility for Windows Memory Analysis and DeepBlueCLI for Windows Event Log Analysis.
 
 ### Skills Learned
 
@@ -12,12 +12,12 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 - Windows Event Log Analysis:
   - Utilize Windows Event Viewer to collect and interpret forensic data from logs, focusing on user account changes, privilege escalations, and password spraying attacks.
   - Detect and analyze encoded PowerShell commands and evasion tactics.
-  - Apply Deep Blue CLI for advanced detection techniques, including PowerShell encoding and detailed EVTX file analysis.
+  - Apply DeepBlueCLI for advanced detection techniques, including PowerShell encoding and detailed EVTX file analysis.
 
 ### Tools Used
 
 - Volatility 3
-- Deep Blue CLI
+- DeepBlueCLI
 
 ## Perform Analysis
 
@@ -52,7 +52,7 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 <b>List all the DLLs loaded by the process with PID 5452</b>
 <br/>
 
-- Deep Blue CLI
+- DeepBlueCLI
 <p align="center">
 <img src="https://i.imgur.com/pQAawZp.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
@@ -80,4 +80,4 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 
 ## Acknowledgements
 - [Volatility](https://volatilityfoundation.org/)
-- [Deep Blue CLI](https://www.sans.org/tools/deepbluecli/)
+- [DeepBlueCLI](https://www.sans.org/tools/deepbluecli/)
