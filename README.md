@@ -39,9 +39,17 @@ Effectively use Volatility for Windows Memory Analysis and Deep Blue CLI for Win
 <br/>
 
 <p align="center">
-<img src="" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://i.imgur.com/odup4zI.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b></b>
+<img src="https://i.imgur.com/Yl56j8a.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Lists all network connections to identify suspicious activity (e.g., TrustMe.exe)</b>
+<br/>
+
+<p align="center">
+<img src="https://i.imgur.com/F8aKXmY.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>List all the DLLs loaded by the process with PID 5452</b>
 <br/>
 
 - Deep Blue CLI
