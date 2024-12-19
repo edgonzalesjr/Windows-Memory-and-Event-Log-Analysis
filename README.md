@@ -73,7 +73,6 @@ Effectively use Volatility for Windows Memory Analysis and DeepBlueCLI for Windo
 <b>Powershell Encoding Detection. Attackers use encoding to bypass detection.</b>
 <br/>
 
-
 ## Outcome
 
 - Achieved proficiency in using both Volatility and Deep Blue CLI for a comprehensive approach to Windows forensic analysis. This includes analyzing memory dumps and event logs to detect and investigate suspicious activities, identify malware behaviors, and effectively respond to security incidents.
