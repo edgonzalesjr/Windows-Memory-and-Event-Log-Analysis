@@ -16,12 +16,12 @@ Effectively use Volatility for Windows Memory Analysis and DeepBlueCLI for Windo
 
 ### Tools Used
 
-- Volatility 3
-- DeepBlueCLI
+- Volatility: an open-source framework for extracting digital artefacts from volatile memory (RAM) samples.
+- DeepBlueCLI: a Powershell module for Threat Hunting via Windows Event Logs.
 
 ## Perform Analysis
 
-- Volatility 3
+- Volatility
 <p align="center">
 <img src="https://i.imgur.com/tzmfVeW.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
@@ -35,7 +35,7 @@ Effectively use Volatility for Windows Memory Analysis and DeepBlueCLI for Windo
 <br/>
 <img src="https://i.imgur.com/Ux0TegW.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Detects signs of process injection and malware behavior in memory. Identified suspicious patterns in system processes (e.g., TrustMe.exe)</b>
+<b>Detects signs of process injection and malware behavior in memory. Identified suspicious patterns in system processes (e.g., TrustMe.exe).</b>
 <br/>
 
 <p align="center">
@@ -43,13 +43,13 @@ Effectively use Volatility for Windows Memory Analysis and DeepBlueCLI for Windo
 <br/>
 <img src="https://i.imgur.com/Yl56j8a.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Lists all network connections to identify suspicious activity (e.g., TrustMe.exe)</b>
+<b>Lists all network connections to identify suspicious activity (e.g., TrustMe.exe).</b>
 <br/>
 
 <p align="center">
 <img src="https://i.imgur.com/F8aKXmY.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>List all the DLLs loaded by the process with PID 5452</b>
+<b>List all the DLLs loaded by the process with PID 5452.</b>
 <br/>
 
 - DeepBlueCLI
@@ -80,3 +80,7 @@ Effectively use Volatility for Windows Memory Analysis and DeepBlueCLI for Windo
 ## Acknowledgements
 - [Volatility](https://volatilityfoundation.org/)
 - [DeepBlueCLI](https://www.sans.org/tools/deepbluecli/)
+
+## Disclaimer
+
+This portfolio is intended for educational and ethical cybersecurity research purposes only. All projects were conducted in a controlled, personal laboratory environment. The author(s) strongly condemn any illegal or unethical use of the information or code presented here. Unauthorized access to any system is strictly forbidden. The author(s) assume no responsibility for any actions taken by third parties using this information.
