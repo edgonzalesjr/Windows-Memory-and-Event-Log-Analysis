@@ -78,7 +78,7 @@ Effectively use Volatility for Windows Memory Analysis and DeepBlueCLI for Windo
 
 ## Acknowledgements
 
-This project combines ideas and methods from various sources, such as the SOC Core Skills by Antisyphon Training, and my personal experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+This project combines ideas and methods from various sources, such as the SOC Core Skills by Antisyphon Training and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [Antisyphon Training](https://www.youtube.com/playlist?list=PL-4fuTjKox5djNS_gB7tsKWcP_1uBb9bR)
  - [Volatility](https://volatilityfoundation.org/)
  - [DeepBlueCLI](https://www.sans.org/tools/deepbluecli/)
